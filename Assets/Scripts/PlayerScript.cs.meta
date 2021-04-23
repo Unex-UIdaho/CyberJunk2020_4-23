@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bda580822e4fdd54f9f3577c50be3aca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthbar: {fileID: 7807128909882388774, guid: 32a8ffc8c7614b24e91f79128d9f99a5,
+      type: 3}
+  - Hand: {fileID: 2001255764628732154, guid: 5a1d521e3f85986498548df10a8597d3, type: 3}
+  - weapon: {fileID: 1031618200365416624, guid: 6c13d4c55b8f9f54ea003ff96e569b4a,
+      type: 3}
+  - rb: {instanceID: 0}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 92e3d7f4aeec48f459ee09538f85a1d0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthbar: {instanceID: 0}
+  - lootDrop: {instanceID: 0}
+  - Hand: {instanceID: 0}
+  - weapon: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - animator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
